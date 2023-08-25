@@ -30,6 +30,7 @@ Welcome to the Light Sensitive Door Closer (LSDC) project repository! The LSDC i
 
 - [5. Implemented Design](#5-implemented-design)
   - [5.1 Implemented Enclosure Design](#51-implemented-enclosure-design)
+  - [5.2 Implemented PCB Design](#52-implemented-pcb-design)
   
 ## 1. Introduction
 ### 1.1 Overview
@@ -128,6 +129,14 @@ We identified and addressed issues through user feedback:
 
 
 ![multy2](https://github.com/isharadilshanra/Light_sensitive_door_closer/assets/105491340/825594d4-f81c-4558-968c-d20a3e83748c)
+
+### 5.2 Implemented PCB Design
+
+![pcb12](https://github.com/isharadilshanra/Light_sensitive_door_closer/assets/105491340/acb85e74-28bd-46b2-8743-f1c573f26552)
+
+
+![PCB13](https://github.com/isharadilshanra/Light_sensitive_door_closer/assets/105491340/bae73a63-772a-4a14-8464-40545080f9de)
+
 
 
 For more detailed information, diagrams, images, and project development updates, please refer to the [LSDC GitHub Repository](insert_repository_url_here).
